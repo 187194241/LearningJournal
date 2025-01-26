@@ -22,8 +22,11 @@ Design a website for a photography company. The website will showcase a beautifu
 
 ### References:
 My Github Website: https://187194241.github.io/CP3402/startup/Practical-1/
+
 My Github Journal 1: https://github.com/187194241/LearningJournal/blob/main/LearningJournal/Journal%20Week1.md
+
 https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245
+
 https://learn.jcu.edu.au/ultra/courses/_178497_1/outline/edit/document/_8174229_1?courseId=_178497_1&view=content
 
 ### Estimated Hours:

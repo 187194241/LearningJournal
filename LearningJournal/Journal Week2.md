@@ -5,7 +5,7 @@ ID			: 14649801
 8 / 2 / 2025 19:00pm - 23:00pm
 
 
-## Week 1 - Overview of CMSs
+## Week 2 - Overview of CMSs
 
 ### Learning Activities & Resources:
 In the second week of the CP3402 – Content Management Systems course, I explored the core concepts behind content management systems and dynamic websites.
@@ -20,7 +20,7 @@ While static websites are quick to set up, cost-effective, and easy to maintain,
 For my startup, I chose the coffee shop idea. In this week's practice, I used AWS to host my Joomla website.
 
 ### References:
-My Joomla Website: http://3.0.104.189/index.php/component/content/article/coffee-lost?catid=2
+My Joomla Website: http://3.0.104.189/joomla/index.php/component/content/article/smart-coffee-recommender?catid=2
 My Github journal 2: https://github.com/187194241/LearningJournal/blob/main/LearningJournal/Journal%20Week2.md
 
 ### Estimated Hours:

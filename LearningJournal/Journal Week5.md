@@ -15,7 +15,7 @@ During the learning process, I learned that directly modifying existing themes i
 ### References:
 1. https://developer.wordpress.org/themes/advanced-topics/child-themes/
 2. https://www.youtube.com/watch?v=Wpc6FAsi7xI
-3. My Github journal 3: https://github.com/187194241/LearningJournal/blob/main/LearningJournal/Journal%20Week5.md
+3. My Github journal 5: https://github.com/187194241/LearningJournal/blob/main/LearningJournal/Journal%20Week5.md
 
 ### Estimated Hours:
 Spent 3 hours hosting, doing practicals and journaling.

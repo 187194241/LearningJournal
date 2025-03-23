@@ -15,7 +15,7 @@ I encountered some challenges along the way, especially in structuring the PHP c
 ### References:
 1. https://www.runoob.com/php/php-tutorial.html
 2. https://edu.aliyun.com/course/313721/
-3. My Github journal 6: https://github.com/187194241/LearningJournal/blob/main/LearningJournal/Journal%20Week7.md
+3. My Github journal 7: https://github.com/187194241/LearningJournal/blob/main/LearningJournal/Journal%20Week7.md
 
 ### Estimated Hours:
 Spend 2.5 hours completing group tasks and journaling.
